@@ -14,8 +14,7 @@ public class StackTest {
 	}
 	
 	/*
-	 * Part1: complete the following test methods as specified. 
-	 * Note that you will need to add new methods in order to test that exceptions are thrown
+	 * Part1: complete the following test methods as specified.
 	 */
 	
 	@Test
