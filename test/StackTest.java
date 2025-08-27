@@ -50,6 +50,19 @@ public class StackTest {
 		fail("not implemented yet");
 	}
 	
+	@Test
+	public void testIsEmptyTrue() {
+		// step 1: test the boolean result from the isEmpty() method
+		fail("not implemented yet");
+	}
+	
+	@Test
+	public void testIsEmptyFalse() {
+		// step 1: add an element to the stack
+		
+		// step 2: test the boolean result from the isEmpty() method
+		fail("not implemented yet");
+	}
 	
 	@Test(expected = StackException.class)
 	public void testEmptyPop() {
