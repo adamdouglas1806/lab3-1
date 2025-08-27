@@ -24,7 +24,7 @@ public class Calculator {
 	}
 
 	// apply the operator after converting the numbers
-	public static int applyOp(String fst,String op,String snd){
+	public static int applyOp(int fst,String op,int snd){
 		return -1; // dummy value
 	}
 }
