@@ -38,20 +38,4 @@ public class CalculatorTest {
 		assertEquals(6,Calculator.applyOp("3","+","3"));
 		assertEquals(3,Calculator.applyOp("5","-","2"));
 	}
-	
-	// optional part
-	
-	/* Uncomment this test if you wish to complete and test
-	 * the optional part of lab 2.
-	@Test
-	public void testCalculatePolish() {
-		String [] cmds1 = {"+","-","3","5","2"};
-		String [] cmds2 = {"-","3","+","5","2"};
-		
-		assertEquals(0,Calculator.calculatePolish(cmds1));
-		assertEquals(-4,Calculator.calculatePolish(cmds2));	
-	}
-	*/
-	
-
 }

@@ -27,9 +27,4 @@ public class Calculator {
 	public static int applyOp(String fst,String op,String snd){
 		return -1; // dummy value
 	}
-
-	// main operation to calculate using Polish notation directly
-    public static int calculatePolish(String [] cmds){
-    	return -1; // dummy value
-    }
 }
