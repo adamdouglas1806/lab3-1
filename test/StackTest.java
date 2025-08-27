@@ -18,13 +18,13 @@ public class StackTest {
 	 */
 	
 	@Test
-	public void testPushEmptySize() {
+	public void testSizeEmpty() {
 		// test the size of an empty stack (hint: test st.size() )
 		fail("not implemented yet");
 	}
 	
 	@Test
-	public void testPushNonEmptySize() {
+	public void testSizeNonEmpty() {
 		st.push("A");
 		st.push("B");
 		// test the size of a non-empty stack
