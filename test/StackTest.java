@@ -97,7 +97,7 @@ public class StackTest {
 		// st.push will add the element "element 3" to the stack.
 		
 		throw new Exception("StackException");
-		// The StackException is thrown which will prevent any errors (pushing too many elements into the stack) from crashing the code.
+		// The StackException is thrown which will prevent any errors (in this case pushing too many elements into the stack) from crashing the code.
 	}
 
 }
