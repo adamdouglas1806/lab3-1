@@ -35,7 +35,7 @@ public class Calculator {
 			}
 		}
 		
-		return 0; // dummy value
+		return (int) pstack.top();
 	}	
 
 	public static int convert(String s) throws NumberFormatException{
